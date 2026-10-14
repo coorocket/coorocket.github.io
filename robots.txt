@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coorocket.github.io/sitemap.xml
+Sitemap: https://coorocket.github.io/jstars/sitemap.xml
